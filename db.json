@@ -1,0 +1,29 @@
+{
+  "bootcamp": [
+    {
+      "id": 1,
+      "name": "Marc Sanchez",
+      "content": "This is an example."
+    },
+    {
+      "id": 2,
+      "name": "Johnny",
+      "content": "This is also an example."
+    },
+    {
+      "id": 3,
+      "name": "Jawarah",
+      "content": "This too is an example"
+    },
+    {
+      "name": "Darrian B.",
+      "content": "Loves all things tech",
+      "id": 4
+    },
+    {
+      "name": "Darrian D.",
+      "content": "New to coding",
+      "id": 5
+    }
+  ]
+}
